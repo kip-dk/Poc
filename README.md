@@ -47,7 +47,7 @@ public class Demo
 We don’t invent everything our self, and topic shared with high quality somewhere else should be acknowledge. In such case linking out of the repository without leaving is important.
 Most of this help comes from:
 
-[Mastering markdown](https://guides.github.com/features/mastering-markdown/)
+[Mastering markdown](https://guides.github.com/features/mastering-markdown/ target="_blank")
 
 
 ### And finally an image, where the image is hosted within my the repository
