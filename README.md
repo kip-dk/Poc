@@ -23,4 +23,4 @@ function() {
 
 and finally an image
 
-![test an image](https://github.com/kip-dk/Poc/tree/master/Documentation/c1.png)
+![test an image](https://github.com/kip-dk/Poc/tree/master/Documentation/c1.png?raw=true)
