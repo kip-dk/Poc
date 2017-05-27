@@ -1,7 +1,7 @@
 # Git – the POC. I am new to Git and Publishing code
-To get started on Git with relevant content, first I need to practice on the basic method used there.
+To get started on Git with relevant content, first I need to practice on the basic method used here.
 
-This project contains an empty Visual Studio Command line tool solution, build with Visual Studio 2017. The command line tool if for reference only. The future projects I plan to publish on Git will be build with Visual Studio, and therefore having a Visual Studio solution as part of the Git repository was important.
+This project contains an empty Visual Studio Command line tool, build with Visual Studio 2017. The command line tool if for reference only. The future projects I plan to publish on Git will be build with Visual Studio, and therefore having a Visual Studio solution as part of the Git repository was important.
 
 ## Sharing code is heroic – but without documentation, of little use
 
@@ -50,7 +50,7 @@ Most of this help comes from:
 [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
 
-### And finally an image, where the image is hosted within my the repository
+### And finally an image, where the image is hosted within the repository
 
 ![test an image](https://raw.githubusercontent.com/kip-dk/Poc/master/Documentation/c1.png)
 
