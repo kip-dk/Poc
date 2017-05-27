@@ -1,7 +1,15 @@
-# This i just my POC
-To get started on Git with relevant content, first i need to pratcis on the basic method used there.
+# Git – the POC. I am new to Git and Publishing code
+To get started on Git with relevant content, first I need to practice on the basic method used there.
 
-## We organize our document into header groups
+This project contains an empty Visual Studio Command line tool solution, build with Visual Studio 2017. The command line tool if for reference only. The future projects I plan to publish on Git will be build with Visual Studio, and therefore having a Visual Studio solution as part of the Git repository was important.
+
+## Sharing code is heroic – but without documentation, of little use
+
+Therefore, exploring on the basic method of adding documentation is an important part of my POC. I need to know how to easy organize text and images as part of the documentation, and even how to show code fragments for clarification of details.
+
+## Simple strucutre, #[n] already demonstrated and will map to <h[n]></h[n]>
+
+### Unordered lists
 
 * Un-Ordered list item 1
 * Un-Ordered list item 2
@@ -9,11 +17,15 @@ To get started on Git with relevant content, first i need to pratcis on the basi
   * and sub element 2.2
 * Un-ordered list item 3
 
+### ordered list
+
 1. And ordered list
 1. with several lines
    1. And sub elements
    1. again
 1. and more
+
+### Code, here we look at javascript
 
 ```javascript
 function() {
@@ -21,6 +33,24 @@ function() {
 }
 ```
 
-and finally an image
+
+### Code, C# here
+'''c#
+public class Demo 
+{
+	public const string x = "the x const";
+}
+'''
+
+### link to source of knowledge
+
+
+[Mastering markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+### and finally an image, where the image is hosted within my the repository
 
 ![test an image](https://raw.githubusercontent.com/kip-dk/Poc/master/Documentation/c1.png)
+
+
+I think I am good to go now. At least i will try.
