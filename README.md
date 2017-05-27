@@ -7,7 +7,7 @@ This project contains an empty Visual Studio Command line tool solution, build w
 
 Therefore, exploring on the basic method of adding documentation is an important part of my POC. I need to know how to easy organize text and images as part of the documentation, and even how to show code fragments for clarification of details.
 
-## Simple strucutre, #[n] already demonstrated and will map to <h[n]></h[n]>
+## Simple strucutre, #[# n times] already demonstrated and will map to <h[n]></h[n]>
 
 ### Unordered lists
 
@@ -44,6 +44,8 @@ public class Demo
 
 ### Link to source of knowledge
 
+We don’t invent everything our self, and topic shared with high quality somewhere else should be acknowledge. In such case linking out of the repository without leaving is important.
+Most of this help comes from:
 
 [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
