@@ -35,20 +35,20 @@ function() {
 
 
 ### Code, C# here
-'''c#
+```c#
 public class Demo 
 {
 	public const string x = "the x const";
 }
-'''
+```
 
-### link to source of knowledge
+### Link to source of knowledge
 
 
 [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
 
-### and finally an image, where the image is hosted within my the repository
+### And finally an image, where the image is hosted within my the repository
 
 ![test an image](https://raw.githubusercontent.com/kip-dk/Poc/master/Documentation/c1.png)
 
