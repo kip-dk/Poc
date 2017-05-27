@@ -49,10 +49,6 @@ Most of this help comes from:
 
 [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
-I am not 100% happy about links that navigate away from my page, so for the experiment i also try for the direct html way. Not sure what is the best approach for Git documentation.
-
-<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">Mastering markdown</a>
-
 
 ### And finally an image, where the image is hosted within my the repository
 
